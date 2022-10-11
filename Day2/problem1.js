@@ -1,0 +1,4 @@
+n=9
+if(n%3==0){
+  console.log("multiple of 3");
+}
